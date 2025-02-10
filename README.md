@@ -13,9 +13,9 @@ Incorporate robustness into a vanilla convolutional neural network for skin canc
   * File type: JPG image.
     
 * Specific information (after data preparation and/or preprocessing):
- * Balanced dataset: ratio 1.1 (benign/ malignant images).
- * Noise: there was no noise present in the dataset.
- * Data normalization: it was not applied in this project.
+  * Balanced dataset: ratio 1.1 (benign/ malignant images).
+  * Noise: there was no noise present in the dataset.
+  * Data normalization: it was not applied in this project.
 
 * Some data instances without augmentation (see Figure 1)
    
@@ -23,7 +23,7 @@ Incorporate robustness into a vanilla convolutional neural network for skin canc
 
 ## Description
 * The aim is to develop better and deeper insights into the construction process of robust convolutional neural networks  that  can generalize without compromising the respective performance.
- * The ever-changing environmental conditions that surround the medical  field  studying  skin  cancer,  such  as  the  skewed distributions of data due to a predominant set of images of certain skin colours, the lack of instances with or without hair and  tattoos,  and  the  noise  and/or  high  discrepancies  in  the quality of the images caused by variations in resolution, focus, contrast, and brightness specific to each capturing equipment motivate this project. 
+  * The ever-changing environmental conditions that surround the medical  field  studying  skin  cancer,  such  as  the  skewed distributions of data due to a predominant set of images of certain skin colours, the lack of instances with or without hair and  tattoos,  and  the  noise  and/or  high  discrepancies  in  the quality of the images caused by variations in resolution, focus, contrast, and brightness specific to each capturing equipment motivate this project. 
 * A regularized vanilla convolutional neural network was developed ande applied, using the dropout technique, to predict or classify if the skin cancer lesion present in the image is considered benign or malignant.
 
 ## Key Insights
