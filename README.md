@@ -6,10 +6,12 @@ Incorporate robustness into a vanilla convolutional neural network for skin canc
 ## Dataset
 * Source: https://www.kaggle.com/datasets/bhaveshmittal/melanoma-cancer-dataset
   * License: CC0 - Public Domain
+    
 * General  information  (before  data  preparation  and/or preprocessing): 
   *  Images: photos of skin cancer lesions categorized as benign or  malignant, set in  their respectives  files of training  data  (11879 images)  and  test  data  (2000 images). 
   * Resolution: 224x224 pixels.
   * File type: JPG image.
+    
 * Specific information (after data preparation and/or preprocessing):
  * Balanced dataset: ratio 1.1 (benign/ malignant images).
  * Noise: there was no noise present in the dataset.
