@@ -16,7 +16,8 @@ Incorporate robustness into a vanilla convolutional neural network for skin canc
  * Balanced dataset: ratio 1.1 (benign/ malignant images).
  * Noise: there was no noise present in the dataset.
  * Data normalization: it was not applied in this project.
- * Some data instances without augmentation (see Figure 1)
+
+* Some data instances without augmentation (see Figure 1)
    
 ![image](https://github.com/user-attachments/assets/42826b70-9353-41ed-a7b2-e4a19e01ff5a)
 
